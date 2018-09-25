@@ -1,0 +1,129 @@
+[
+  {
+    "color": "blue",
+    "size": "calf",
+    "occasion": "dress",
+    "id": 1,
+    "title": "Mens's Merino Wool Socks",
+    "description": "Merino Wool is a super strong natural fiber that's incredibly soft, will keep you warm in the winter and breezy-cool in the summer",
+    "price": 18,
+    "productImage": "https://res.cloudinary.com/bombas/image/fetch/c_scale,f_auto,q_auto,w_640/https://cdn.shopify.com/s/files/1/1119/5850/products/steel-blue-grid.jpg%3Fv%3D1535563094"
+  },
+  {
+    "color": "black",
+    "size": "calf",
+    "occasion": "dress",
+    "id": 2,
+    "title": "Men's Dress Stripes",
+    "author": "William Goldman",
+    "description": "Earn your stripes: Thin ones for your legs, thick stripes on your feet.",
+    "price": 15,
+    "productImage": "https://res.cloudinary.com/bombas/image/fetch/c_scale,f_auto,q_auto,w_640/https://cdn.shopify.com/s/files/1/1119/5850/products/black-rainbow-stripe-grid.jpg%3Fv%3D1535485849"
+  },
+  {
+    "color": "green",
+    "size": "calf",
+    "occasion": "casual",
+    "id": 3,
+    "title": "Men's Original Calf",
+    "author": "Hermann Hesse",
+    "description": "They're designed to stand out from the pack, purpose built for performance, and engineered for comfort.",
+    "price": 12,
+    "productImage": "https://res.cloudinary.com/bombas/image/fetch/c_scale,f_auto,q_auto,w_640/https://cdn.shopify.com/s/files/1/1119/5850/products/evergreen-grid_2c9f0528-da4d-4ce5-a58d-8fecd38e357f.jpg%3Fv%3D1533937234"
+  },
+  {
+    "color": "green",
+    "size": "ankle",
+    "occasion": "casual",
+    "id": 4,
+    "title": "Men's Oringal Ankle",
+    "author": "Hermann Hesse",
+    "description": "Grab a pair of the socks that started it all.",
+    "price": 12,
+    "productImage": "https://res.cloudinary.com/bombas/image/fetch/c_scale,f_auto,q_auto,w_640/https://cdn.shopify.com/s/files/1/1119/5850/products/evergreen-grid_cb273cff-8277-44cb-97cb-9d6f2c5cf42e.jpg%3Fv%3D1533937148"
+  },
+  {
+    "color": "blue",
+    "size": "calf",
+    "occasion": "casual",
+    "id": 5,
+    "title": "Men's Tie Dye Calf Socks",
+    "author": "Hermann Hesse",
+    "description": "Socko Tie Dye socks, with a unique burst of bright, vibrant colors on each pair of socks.",
+    "price": 12,
+    "productImage": "https://res.cloudinary.com/bombas/image/fetch/c_scale,f_auto,q_auto,w_640/https://cdn.shopify.com/s/files/1/1119/5850/products/navy-grid_1d879c95-5f92-43e1-a5b7-08bff4e06f87.jpg%3Fv%3D1526588787"
+  },
+  {
+    "color": "gray",
+    "size": "quarter",
+    "occasion": "athletic",
+    "id": 6,
+    "title": "Men's Hiking Quarter Socks",
+    "author": "Hermann Hesse",
+    "description": "Full-cushion hiking socks intelligently engineered for hiking comfort with Hex Tec technology.",
+    "price": 18,
+    "productImage": "https://res.cloudinary.com/bombas/image/fetch/c_scale,f_auto,q_auto,w_640/https://cdn.shopify.com/s/files/1/1119/5850/products/black-grid_71fc9fd1-9455-4c20-b935-09581b407933.jpg%3Fv%3D1531152943"
+  },
+  {
+    "color": "yellow",
+    "size": "quarter",
+    "occasion": "athletic",
+    "id": 7,
+    "title": "Men's Hiking Quarter Socks 2",
+    "description": "Full-cushion hiking socks intelligently engineered for hiking comfort with Hex Tec technology.",
+    "price": 18,
+    "productImage": "https://res.cloudinary.com/bombas/image/fetch/c_scale,f_auto,q_auto,w_640/https://cdn.shopify.com/s/files/1/1119/5850/products/citron-grid_9d982842-68e3-4a53-91f6-d7a435203b04.jpg%3Fv%3D1531152952"
+  },
+  {
+    "color": "yellow",
+    "size": "ankle",
+    "occasion": "casual",
+    "id": 8,
+    "title": "Men's Oringal Ankle 2",
+    "author": "Hermann Hesse",
+    "description": "Grab a pair of the socks that started it all.",
+    "price": 12,
+    "productImage": "https://res.cloudinary.com/bombas/image/fetch/c_scale,f_auto,q_auto,w_640/https://cdn.shopify.com/s/files/1/1119/5850/products/evergreen-grid_cb273cff-8277-44cb-97cb-9d6f2c5cf42e.jpg%3Fv%3D1533937148"
+  },
+  {
+    "color": "red",
+    "size": "calf",
+    "occasion": "dress",
+    "id": 9,
+    "title": "Men's Dress Stripes 2",
+    "description": "Earn your stripes: Thin ones for your legs, thick stripes on your feet.",
+    "price": 15,
+    "productImage": "https://res.cloudinary.com/bombas/image/fetch/c_scale,f_auto,q_auto,w_640/https://cdn.shopify.com/s/files/1/1119/5850/products/black-rainbow-stripe-grid.jpg%3Fv%3D1535485849"
+  },
+  {
+    "color": "black",
+    "size": "calf",
+    "occasion": "dress",
+    "id": 10,
+    "title": "Mens's Merino Wool Socks 2",
+    "description": "Merino Wool is a super strong natural fiber that's incredibly soft, will keep you warm in the winter and breezy-cool in the summer",
+    "price": 18,
+    "productImage": "https://res.cloudinary.com/bombas/image/fetch/c_scale,f_auto,q_auto,w_640/https://cdn.shopify.com/s/files/1/1119/5850/products/black-grid_fd53fd5b-ca7c-4563-a0dc-fce7ea7b8c9b.jpg%3Fv%3D1536679321"
+  },
+  {
+    "color": "blue",
+    "size": "calf",
+    "occasion": "casual",
+    "id": 11,
+    "title": "Men's Tri-Block Calf Socks",
+    "author": "Hermann Hesse",
+    "description": "This tri-blocked calf sock is architectural in design.",
+    "price": 12,
+    "productImage": "https://res.cloudinary.com/bombas/image/fetch/c_scale,f_auto,q_auto,w_640/https://cdn.shopify.com/s/files/1/1119/5850/products/teal-orange-navy-grid.jpg%3Fv%3D1536594987"
+  },
+  {
+    "color": "red",
+    "size": "ankle",
+    "occasion": "casual",
+    "id": 12,
+    "title": "Men's Classic Marls Ankle",
+    "description": "Classic colors, Marl yarn twist.",
+    "price": 12,
+    "productImage": "https://res.cloudinary.com/bombas/image/fetch/c_scale,f_auto,q_auto,w_640/https://cdn.shopify.com/s/files/1/1119/5850/products/burgundy-oatmeal-grid.jpg%3Fv%3D1536356635"
+  }
+]

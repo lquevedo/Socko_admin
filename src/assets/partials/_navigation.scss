@@ -1,0 +1,53 @@
+.nav {
+  display: flex;
+  background: rgb(113, 113, 255);
+  width: 100%;
+  position: fixed;
+  top: 0;
+  justify-content: space-between;
+  &__logo {
+    height: 80px;
+    width: 15%;
+    background-size: 80px;
+    background-repeat: no-repeat;
+    margin-left: 2rem;
+    font-size: 2.5rem;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 3px;
+    span {
+      font-size: 12px;
+      text-transform: lowercase;
+    }
+  }
+  &__icons {
+    width: 20%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    &--search {
+      background-image: url(../images/search_icon.svg);
+      height: 30px;
+      width: 30px;
+      background-size: 30px;
+    }
+    &--mail {
+        background-image: url(../images/mail_icon.svg);
+        height: 30px;
+        width: 30px;
+        background-size: 30px;
+      }
+      &--person {
+        background-image: url(../images/portrait.jpg);
+        height: 40px;
+        width: 40px;
+        background-size: 40px;
+        border-radius: 50%;
+      }
+  }
+}

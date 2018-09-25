@@ -1,0 +1,16 @@
+@import 'normalizer.scss';
+@import '../partials/_navigation';
+@import '../partials/_sidebar';
+@import '../partials/_productsList';
+@import '../partials/_dashboard';
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  color: blue;
+  background: gainsboro;
+  font-family: 'Muli', sans-serif;
+}

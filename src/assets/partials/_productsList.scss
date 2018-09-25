@@ -1,0 +1,68 @@
+.products {
+  width: 80%;
+  height: 1000px;
+  margin-left: 20%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 80px;
+  color: black;
+  &__breadcrumbs {
+    width: 100%;
+    height: 100px;
+    background: white;
+    box-shadow: 0px 1px 9px rgb(175, 175, 175);
+    >h1 {
+        margin: 10px 0 0 20px;
+        font-weight: 300;
+        letter-spacing: 2px;
+    }
+    span {
+        color: gray;
+        margin: 0 0 0 20px;
+    }
+  }
+  &__header {
+    width: 90%;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 4px;
+    background: white;
+    box-shadow: 0px 1px 9px rgb(175, 175, 175);
+    margin-top: 20px;
+    height: 80px;
+    align-items: center;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+  &__item {
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 10px;
+    border-radius: 4px;
+    background: white;
+    box-shadow: 0px 1px 9px rgb(175, 175, 175);
+    &--title {
+      width: 200px;
+    }
+    &--id {
+      width: 250px;
+      text-align: center;
+    }
+    &--edit {
+      width: 40px;
+      height: 40px;
+      background-image: url("../images/edit_icon.svg");
+      background-size: 40px;
+    }
+    &--delete {
+      width: 40px;
+      height: 40px;
+      background-image: url("../images/delete_icon.svg");
+      background-size: 40px;
+    }
+  }
+}

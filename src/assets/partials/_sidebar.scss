@@ -1,0 +1,15 @@
+.sidebar {
+  background: rgba(0, 0, 0, 0.836);
+  height: 1440px;
+  width: 20%;
+  position: fixed;
+  top: 80px;
+  ul{
+      list-style: none;
+    a {
+        text-decoration: none;
+        color: white;
+      }
+  }
+  
+}
